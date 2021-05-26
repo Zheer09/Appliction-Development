@@ -1,0 +1,183 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 976px;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 570px;
+  height: 608px;
+  margin: 50px auto 0 0;
+}
+
+.u-section-1 .u-shape-2 {
+  width: 570px;
+  height: 608px;
+  margin: -608px auto 0 570px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: -448px 714px 0 50px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 25px 952px 0 50px;
+}
+
+.u-section-1 .u-line-1 {
+  width: 151px;
+  height: 3px;
+  transform-origin: left center 0px;
+  margin: -183px auto 0 50px;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 700;
+  margin: -48px 714px 0 50px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  margin: 305px auto 0 50px;
+  padding: 10px 34px 10px 33px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 283px;
+  margin: -344px 67px 60px 637px;
+}
+
+.u-section-1 .u-input-1 {
+  text-transform: uppercase;
+}
+
+.u-section-1 .u-input-2 {
+  text-transform: uppercase;
+}
+
+.u-section-1 .u-btn-2 {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border-style: none;
+  font-weight: 700;
+  background-image: none;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-shape-1 {
+    width: 470px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    margin-left: 370px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 564px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 802px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-line-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 564px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 0;
+    margin-left: 503px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-shape-1 {
+    width: 360px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    margin-left: 150px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 344px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 582px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 344px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-left: 283px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-shape-1 {
+    width: 270px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    width: 540px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 164px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 402px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 164px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-left: 103px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-shape-1 {
+    width: 170px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 202px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-left: 0;
+  }
+}
